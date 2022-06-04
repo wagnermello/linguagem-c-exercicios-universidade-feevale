@@ -2,7 +2,7 @@
 <h1 align="center" ><img src="https://www.infoescola.com/wp-content/uploads/2017/06/feevale.jpg" alt="Universidade Feevale" height="250" width="250"/></h1>
 <p align="center">Repositório criado para registrar meu progresso na graduação Análise e Desenvolvimento de Sistemas.</p>
 
-<p align="center">⚠️ Projeto em desenvolvimento... ⚠️</p>
+<p align="center">⚠️ Projeto em desenvolvimento ⚠️</p>
 
 
 #
