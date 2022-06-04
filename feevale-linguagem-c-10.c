@@ -53,7 +53,7 @@ int main(){
         if(n3<menor)
             menor = n3;
         media = (n1+n2+n3-menor)/2;
-        //Achando percentual de faltas
+        ///Achando percentual de faltas
         percentualfaltas = (qtdfaltas*100)/qtdaulas;
         //Encontrando as análises
         if(media>=7.0 && percentualfaltas<=25.0)
@@ -67,4 +67,5 @@ int main(){
     printf("Total de reprovados por nota: %d - %.2f %%\n",reprovados,(reprovados*100.0)/qtdalunos);
     printf("Total de reprovados por falta: %d - %.2f %%\n",reprovadosfalta,(reprovadosfalta*100.0)/qtdalunos);
     getch();
+    
 }
