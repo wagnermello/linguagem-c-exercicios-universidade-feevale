@@ -139,3 +139,7 @@ b) Na segunda linha armazene o vetor B<br>
 c) Na terceira linha, contenha para cada coluna a soma dos elementos da primeira e da segunda linha correspondentes à mesma coluna.<br><br>
 
 Por fim, exiba a matriz resultante organizada em linhas e colunas.
+
+#
+
+21. Crie uma estrutura de dados que contenha os dados de uma quantidade de alunos (nome, nota de matemática, nota de física, média). Exiba na tela o nome e a média de cada aluno.
